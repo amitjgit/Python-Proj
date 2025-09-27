@@ -1,5 +1,5 @@
 print("amit jain")
-a=2
-b=3
-d=a+b
-print(d)
+x=2
+y=3
+c=x+y
+print(c)
